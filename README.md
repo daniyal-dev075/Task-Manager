@@ -38,7 +38,7 @@ TaskManager is a Flutter-based task management app designed to help users effici
 
 Check out the demo of **FilmyINFO** on LinkedIn:
 
-🔗 [Watch Demo on LinkedIn](https://www.linkedin.com/posts/muhammad-daniyal-086228178_flutter-mobileapp-dart-activity-7327661974970933248-kWO8?utm_source=share&utm_medium=member_android&rcm=ACoAACoJMGYBTBbcC6HtuJ7wYAPaik5v8ufNqG8)
+🔗 [Watch Demo on LinkedIn](https://www.linkedin.com/posts/muhammad-daniyal-b11942366_flutter-dart-mobiledevelopment-activity-7330601807993339905-YQnP?utm_source=share&utm_medium=member_android&rcm=ACoAAFroY70Bsc4WEY_PzNwsOjcoGkIDPhjNaCY)
 
 > *(Click the link above to see the app in action — includes UI, login, and Task Management Features!)*
 
